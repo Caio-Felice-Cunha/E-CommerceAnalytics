@@ -1,7 +1,7 @@
 # E-CommerceAnalytics
 Analyzing an international e-commerce company (E-commerce) with Python
 
-	<img align="center" src=![E-Commerce](https://user-images.githubusercontent.com/111542025/227738567-68ad2f7e-2a1e-4d8e-aff5-731653aa584b.png)>
+	<img align="center" src=https://user-images.githubusercontent.com/111542025/227738567-68ad2f7e-2a1e-4d8e-aff5-731653aa584b.png>
 
 ## This is the 1st Version 
 
