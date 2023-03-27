@@ -3,7 +3,7 @@ Analyzing an international e-commerce company (E-commerce) with Python and Power
 [Power BI Dashboard (Report)](https://app.powerbi.com/view?r=eyJrIjoiODVlNWUwNzEtNTNmMS00NGVhLTliMTUtN2M4NDA1YjgxZDNhIiwidCI6IjA4OTM0YTNmLWFkNmUtNDgzZS1hNjhlLTUxYWI3OTI1YmFiNyJ9)<br>
 [Power BI Power App](https://app.powerbi.com/Redirect?action=OpenApp&appId=f6eebfe2-d3d9-472c-82d9-ddd925f736b9&ctid=08934a3f-ad6e-483e-a68e-51ab7925bab7)<br>
 [Python Script](https://github.com/Caio-Felice-Cunha/E-CommerceAnalytics/blob/main/E-Commerce%20Analytics.ipynb)<br>
-[Executive Report](https://github.com/Caio-Felice-Cunha/E-CommerceAnalytics/blob/main/Executive%20Report%20E-Commerce%20Analytics.pdf)
+[Executive Report](https://github.com/Caio-Felice-Cunha/E-CommerceAnalytics/blob/main/Executive%20Report%20E-Commerce%20Analytics.pdf) 
 
 <img align="center" src=https://user-images.githubusercontent.com/111542025/227738814-a648db19-f4cc-42f5-b75d-6337f836f355.png>
 
