@@ -1,5 +1,5 @@
 # E-CommerceAnalytics
-Analyzing an international e-commerce company (E-commerce) with Python
+Analyzing an international e-commerce company (E-commerce) with Python and Power BI <br>
 [Power BI](https://app.powerbi.com/view?r=eyJrIjoiNTJhN2I4ZDUtNjc3ZS00MDFjLWFkNjUtZWVmZmQwYjIzNTc3IiwidCI6IjA4OTM0YTNmLWFkNmUtNDgzZS1hNjhlLTUxYWI3OTI1YmFiNyJ9)<br>
 [Power BI Power App](https://app.powerbi.com/Redirect?action=OpenApp&appId=f6eebfe2-d3d9-472c-82d9-ddd925f736b9&ctid=08934a3f-ad6e-483e-a68e-51ab7925bab7)
 
