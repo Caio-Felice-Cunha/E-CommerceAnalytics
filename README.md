@@ -50,5 +50,5 @@ Therefore, it is necessary to better understand the transport market in order to
 ## Next Steps
 * Accepting suggestions :D
 
-## Disclaimer:
+## Disclaimer
 A good part of this project was largely done in the Data Science Academy, Big Data Real-Time Analytics with Python and Spark course (part of the Data Scientist training)
