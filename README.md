@@ -33,6 +33,12 @@ It is assumed that the company wants to better understand the data to provide be
 
 ## Solution Strategy
 To solve the problem we use the Python language
+* Step 01: Separation of Categorical and Numerical Variables;
+* Step 02: Exploring Numerical / Categorical Variables;
+* Step 03: Univariate Analysis - Box Plots / Dist Plots / Violin Plots / Count Plot (Categorical);
+* Step 04: Bivariate Analysis - Correlation Map / Pair Plot;
+* Step 05: Categorical Columns x Target Variable;
+* Step 06: Using the data to answer buiness problems.
 
 ## Data Insights
 For companies that produce and/or sell products, there is often a concentration and investment of both resources and energy in trying to figure out how to improve what is being sold.
